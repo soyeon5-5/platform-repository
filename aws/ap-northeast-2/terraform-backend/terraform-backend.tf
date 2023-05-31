@@ -1,6 +1,6 @@
-resource "aws_s3_bucket" "test-s3-tf-state" {
+resource "aws_s3_bucket" "test-s3-tf-state0505" {
 
-  bucket = "test-s3-tf-state"
+  bucket = "test-s3-tf-state0505"
 
   tags = {
     "Name" = "test-s3-tf-state"
